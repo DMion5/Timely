@@ -1,0 +1,4 @@
+Flask~=2.1.2
+datefinder~=0.7.1
+pytz~=2022.1
+spacy~=3.3.1
